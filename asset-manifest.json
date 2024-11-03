@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/swapi-react-app/static/css/main.d221dc40.css",
+    "main.js": "/swapi-react-app/static/js/main.532058ba.js",
+    "static/js/453.c86d25fa.chunk.js": "/swapi-react-app/static/js/453.c86d25fa.chunk.js",
+    "index.html": "/swapi-react-app/index.html",
+    "main.d221dc40.css.map": "/swapi-react-app/static/css/main.d221dc40.css.map",
+    "main.532058ba.js.map": "/swapi-react-app/static/js/main.532058ba.js.map",
+    "453.c86d25fa.chunk.js.map": "/swapi-react-app/static/js/453.c86d25fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.532058ba.js"
+  ]
+}
